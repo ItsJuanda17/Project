@@ -14,7 +14,6 @@ public class Project{
 	private Calendar initialDate;
 	private Calendar finalDate;
 	private double budget;
-
 	private DateFormat formatter;
 
 	public Project(String name, String clientName, Calendar initialDate, Calendar finalDate, double budget){
